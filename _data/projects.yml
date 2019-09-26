@@ -68,7 +68,7 @@
     - Implemented a LSTM in Chainer (dynamic computational graph framework) for language modelling.
     - Improved word perplexity by building a factored language model incorporating both words and parts of speech.
 
-    Slides available at [<mark></mark>](https://docs.google.com/presentation/d/1PigfDzFcpsljJSDm6KxIaPtv2bT0D0X3sml4PiW2VQo/edit?usp=sharing)
+    Slides available at [<mark>Google Slides</mark>](https://docs.google.com/presentation/d/1PigfDzFcpsljJSDm6KxIaPtv2bT0D0X3sml4PiW2VQo/edit?usp=sharing)
 
     Awarded **Summer Undergraduate Research Award** for successful completion
 
