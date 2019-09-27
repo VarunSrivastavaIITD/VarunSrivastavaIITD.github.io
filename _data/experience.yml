@@ -10,3 +10,16 @@
     - Implemented Inverse Reinforcement Algorithms to model Customer Experience in an online setting.
     - Proposed a new metric incorporating aspects of Consumer Psychology and Learning to measure Experience.
     -  Worked on distributed database management library Apache Spark to process more than 2 TB of clickstream data.
+
+- layout: left
+  company: Indian Institute of Technology, Delhi
+  link: iitd.ac.in
+  job_title: Teaching Assistant
+  dates: July 2018- December 2018
+  quote: >
+    Acted as teaching assistant for the course ELL205 (Signals and Systems) comprising over 150+ students from diverse backgrounds.
+    The course establishes a strong mathematical foundation in tools for understanding and manipulating signals including various Fourier Transforms, Laplace Transforms and frequency analysis.
+  description: |
+    - Designed and invigilated quizzes (6) conducted and automated via Moodle.
+    - Graded and disseminated solutions to all exams (3) conducted during the duration of the course.
+    - Taught weekly tutorials (office hours) discussing doubts and applications for ongoing topics in the class.
