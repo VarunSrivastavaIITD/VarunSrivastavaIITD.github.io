@@ -21,11 +21,19 @@
       {%- endif -%}
 
       {%- if site.data.honors.size > 0 -%}
-        {%- include listformat.html title="Honors" content="honors" -%}
+        {%- include definitionlist.html title="Honors" content="honors" -%}
+      {%- endif -%}
+
+      {%- if site.data.proficiencies.size > 0 -%}
+        {%- include proficiency.html -%}
       {%- endif -%}
 
       {%- if site.data.education.size > 0 -%}
         {%- include education.html -%}
+      {%- endif -%}
+
+      {%- if site.data.courses.size > 0 -%}
+        {%- include list.html title="Courses Undertaken" content="courses" -%}
       {%- endif -%}
 
       {%- if site.more_content -%}

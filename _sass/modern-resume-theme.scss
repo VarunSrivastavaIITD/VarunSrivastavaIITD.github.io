@@ -94,6 +94,11 @@ ul.icons a {
   }
 }
 
+.proficiency {
+  margin-top: 10px;
+  font-size: 2em;
+}
+
 .projects-container,
 .experience-container,
 .education-container {
@@ -125,6 +130,12 @@ ul.icons a {
   dl {
     margin-bottom: 3px;
     font-size: 1.7em;
+  }
+
+  ol {
+    margin-top: 1em;
+    font-size: 1.7em;
+    margin-bottom: 0;
   }
 }
 
