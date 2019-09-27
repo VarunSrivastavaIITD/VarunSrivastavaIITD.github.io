@@ -39,9 +39,9 @@ about_content: | # this will include new lines to allow paragraphs
   - Computer Vision
   - Sequence Analysis and Generation
   
-   My future research endeavours aim to provide a firmer footing to algorithms used to train neural networks by using information theoretic tools and optimization theory. This would manifest as optimizations to training ad inference procedures both at an algorithmic and system implementation levels.
+   My future research endeavours aim to provide a firmer footing to algorithms used to train neural networks by using information theoretic tools and optimization theory. In practice, this may manifest as optimizations to training and inference procedures both at an algorithmic and system implementation levels.
 
-   In the past I have had the fortune to experience work in highly intergrated teams and solo projects, which have allowed me to not only successfully complete my projects, but also thrive in an open work environment fostering both personal growth and leadership abilities in group settings. My mission is to estabilish sound principles for learning algorithms which would have wide reaching impact across all domains where ML is applied.
+   In the past I have had the fortune to work in highly integrated teams, which have allowed me to not only bring my projects to successful completion, but also thrive in an open work environment that fosters both personal growth, leadership abilities and teamwork. My mission is to develop sound principles for (machine) learning algorithms that have cross cutting real world impact across a range of domains from medicine to engineering.
 
 # Projects Section
 projects_title: Projects and Publications #(Use this to override about projects section title)
