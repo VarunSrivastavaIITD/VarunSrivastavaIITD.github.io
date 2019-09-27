@@ -55,7 +55,7 @@ projects_title: Projects and Publications #(Use this to override about projects 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  I love to read fantasy during my leisure time. A short (and incomplete) list of my favoured authors includes Patrick Rothfuss, Brandon Sanderson, Brent Weeks, Neil Gaiman, N.K. Jemisin. You can also find me tinkering with the shiniest deep learning framework on the block (PyTorch at the moment) with my trust cup of tea.
+  I love to read fantasy during my leisure time. A short (and incomplete) list of my favoured authors includes Patrick Rothfuss, Brandon Sanderson, Brent Weeks, Neil Gaiman, N.K. Jemisin. You can also find me tinkering with the shiniest deep learning framework on the block (PyTorch at the moment) with my trusty cup of tea.
 
 # Footer
 footer_show_references: true
