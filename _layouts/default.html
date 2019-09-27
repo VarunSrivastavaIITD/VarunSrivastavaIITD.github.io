@@ -12,12 +12,16 @@
 
       {%- include about.html -%}
 
+      {%- if site.data.experience.size > 0 -%}
+        {%- include experience.html -%}
+      {%- endif -%}
+
       {%- if site.data.projects.size > 0 -%}
         {%- include projects.html -%}
       {%- endif -%}
 
-      {%- if site.data.experience.size > 0 -%}
-        {%- include experience.html -%}
+      {%- if site.data.honors.size > 0 -%}
+        {%- include listformat.html title="Honors" content="honors" -%}
       {%- endif -%}
 
       {%- if site.data.education.size > 0 -%}
