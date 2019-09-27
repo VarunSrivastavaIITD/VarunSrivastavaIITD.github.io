@@ -12,7 +12,7 @@
     - Used a variational inference approach for learning optimal representations for the speech signal.
     - Utilized continuous wavelet transforms using Ricker wavelets for robust peak picking.
 
-    Published in IEEE/ACM Transactions on Audio, Speech, and Language Processing. Manuscript available at [<mark>
+    <strong>Published in IEEE/ACM Transactions on Audio, Speech, and Language Processing</strong>. Manuscript available at [<mark>
       arxiv link
     </mark>](https://arxiv.org/abs/1903.12248)
 
@@ -28,7 +28,7 @@
     - Created a robust Weighted Histogram based Clustering Algorithm for time series clustering.
     - Beat State of the Art method with Lowest Variance in Localisation Error on noisy speech.
 
-    Published in INTERSPEECH 2019. Manuscript available at [<mark>
+    <strong>Published in INTERSPEECH 2019</strong>. Manuscript available at [<mark>
       arxiv link
     </mark>]( https://arxiv.org/abs/1804.10147)
 - layout: top-middle
@@ -41,6 +41,8 @@
     - Construction of a multi modal latent distribution by reparameterization of a mixture of continuous and discrete random variables employable in any GAN framework.
     - Imposition of modal properties of the latent space the generated space using two-stage latent inversion.
     - Learnt the mode priors of the latent distribution to follow true data distribution using sparse-supervision.
+
+
     Manuscript available at [<mark>arxiv link</mark>](https://arxiv.org/abs/1811.03692)
 
 - layout: top-middle
