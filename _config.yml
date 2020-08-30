@@ -29,7 +29,7 @@ linkedin_username: varun-srivastava-2a7a76193
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: assets/headshot.jpg
+about_profile_image: assets/headshot.png
 about_content: | # this will include new lines to allow paragraphs
   I am Varun Srivastava, a graduate student at Stanford University pursuing a Masters in Electrical Engineering. A graduate of IIT Delhi, my main interests lie in establishing the mathematical foundations of and accelerating Deep learning algorithms, and their applications such as
 
