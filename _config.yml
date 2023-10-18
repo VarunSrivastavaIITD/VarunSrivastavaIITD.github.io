@@ -5,8 +5,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Varun Srivastava
 title: Stanford EE
-email: vsriva@stanford.edu
-phone: +1 (719)-430-5204
+email: vsriva35@gmail.com
+# phone: +1 (719)-430-5204
 # website: Your website (eg. https://google.com)(optional)
 description: >- # this means to ignore newlines until "baseurl:"
   I am Varun Srivastava, a graduate student at Stanford University pursuing a Masters in Electrical Engineering. A graduate of IIT Delhi, my main interests lie in establishing the mathematical foundations of and accelerating Deep learning algorithms.
